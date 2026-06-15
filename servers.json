@@ -1,0 +1,8 @@
+{
+  "Servers": [
+    {
+      "Name": "My Server",
+      "Address": "https://anisette-v3-server-q76f.onrender.com"
+    }
+  ]
+}
